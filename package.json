@@ -1,0 +1,23 @@
+{
+  "name": "front-end-developer-challenge",
+  "version": "1.0.0",
+  "description": "Redesign a series of webpages",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiwaojo/Prepr-Front-End-Developer-Summer-Internship-.git"
+  },
+  "author": "Tiwaloluwa Ojo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiwaojo/Prepr-Front-End-Developer-Summer-Internship-/issues"
+  },
+  "homepage": "https://github.com/tiwaojo/Prepr-Front-End-Developer-Summer-Internship-#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
