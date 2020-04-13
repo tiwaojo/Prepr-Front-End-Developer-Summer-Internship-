@@ -1,9 +1,5 @@
 body {
     background-color: white;
-    /* #086972 */
-    /* font-family: 'Indie Flower', cursive; */
-    /* #3e4a61; */
-    /* linear-gradient(to right, rgb(15, 32, 39), rgb(32, 58, 67), rgb(44, 83, 100)); */
 }
 
 html {
@@ -23,14 +19,6 @@ h2 {
     text-align: end;
     display: block;
     align-content: flex-end;
-    /* flex-wrap: wrap; */
-    /* position: relative; */
-    /* background-attachment: scroll; */
-    /* background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover; */
-    /* background-image: linear-gradient(rgba(34, 40, 49, .4), rgba(34, 40, 49, .6)), url("../images/ak-n-cakiner-Pw8SHbCn4iM-unsplash-removebg-preview (1).png"); */
-    /* background-blend-mode: normal; */
 }
 
 .jumbotron img {
@@ -41,17 +29,14 @@ h2 {
 #menu {
     position: sticky;
     top: 200px;
-    /* left: 20px; */
     text-align: start;
     align-content: space-around;
     width: fit-content;
     height: auto;
-    /* margin-bottom: 40px; */
 }
 
 #menu ul {
     align-items: center;
-    /* text-align: start; */
     justify-content: space-between;
     display: block;
 }
@@ -61,21 +46,15 @@ h2 {
     width: 35px;
     margin-right: 20px;
     margin-top: 10px;
-    /* display: inline; */
 }
 
 #menu ul a {
     display: flex;
     align-content: center;
-    /* justify-content: center; */
 }
 
 #explore {
     margin-left: 260px;
-    /* justify-content: left; */
-    /* text-align: start; */
-    /* display: inline-flex; */
-    /* align-content: flex-start; */
 }
 
 #explore .myCard {
@@ -92,11 +71,9 @@ h2 {
     align-self: center;
     width: 40%;
     height: 40%;
-    /* justify-content: space-between; */
     display: flexbox;
     background-color: #086972;
     background-blend-mode: normal;
-    /* filter: drop-shadow(1); */
 }
 
 h3,
